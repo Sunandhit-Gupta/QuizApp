@@ -1,16 +1,8 @@
-# quizzler
 
-A new Flutter project.
+drive link - https://drive.google.com/file/d/1RUXQ_2L6VvnXRqIPF9_eEiUY7w1pQhBd/view?usp=drive_link
 
-## Getting Started
+screenshot: 
 
-This project is a starting point for a Flutter application.
+![quiz2Screenshot](https://github.com/Sunandhit-Gupta/QuizApp/assets/114736728/e77399c5-c9da-4fcd-8e29-c3f6ef7a6d84)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![quiz1Screenshot](https://github.com/Sunandhit-Gupta/QuizApp/assets/114736728/de08b35c-09ef-403e-b0c4-a2e77ad7f55e)
